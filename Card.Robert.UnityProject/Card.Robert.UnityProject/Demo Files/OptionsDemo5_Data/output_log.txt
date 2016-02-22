@@ -1,0 +1,70 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     3014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Unity\OptionsDemo5_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.520874 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.272255 ms (FindLiveObjects: 0.018603 ms CreateObjectMapping: 0.020670 ms MarkObjects: 0.173334 ms  DeleteObjects: 0.059057 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.447502 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.207292 ms (FindLiveObjects: 0.011811 ms CreateObjectMapping: 0.010335 ms MarkObjects: 0.170381 ms  DeleteObjects: 0.014764 ms)
+
+getName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+getName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at pauseScreen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: F:\Unity\OptionsDemo5_Data\Managed\Boo.Lang.dll (this message is harmless)
+Inside M
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at pauseScreen.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Inside M
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
